@@ -17,10 +17,6 @@ header{
   justify-content: space-between;
 }
 
-.headerlist{
-  display: flex;
-}
-
 .webname{
   margin-top: 42px;
 }
